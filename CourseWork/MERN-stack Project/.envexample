@@ -1,0 +1,3 @@
+NODE_ENV = development
+PORT = 5000
+MONGO_URI = mongodb+srv://ad1872:ad1872@mujtabacluster.gci5s.mongodb.net/mernapp?retryWrites=true&w=majority&appName=MujtabaCluster
