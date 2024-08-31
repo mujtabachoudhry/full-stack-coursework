@@ -1,0 +1,43 @@
+.fitness-logs-container {
+    width: 100%;
+    padding: 20px;
+}
+
+.fitness-logs-list {
+    list-style: none;
+    padding: 0;
+}
+
+.fitness-log-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+}
+
+.fitness-log-details {
+    flex: 1;
+}
+
+.fitness-log-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.fitness-log-buttons button {
+    margin-left: 10px;
+}
+
+.fitness-log-edit input,
+.fitness-log-edit textarea {
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 200px;
+}
+button {
+    margin-top: 10px;
+    margin-right: 10px;
+}
